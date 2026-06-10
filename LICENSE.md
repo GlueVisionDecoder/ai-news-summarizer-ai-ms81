@@ -1,4 +1,4 @@
-# 
+# Automático AI News Summarizer preajustes. Con aprendizaje por transferencia y analítica predictiva — optimizado para el máximo rendimiento.
 
 
 
